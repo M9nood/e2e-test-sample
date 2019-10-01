@@ -40,9 +40,6 @@ input{
     margin-bottom: 5px;
     min-width: 250px;
     padding: 2px 4px;
-    /* border: 1px solid ; */
-    /* border-radius: 8px; */
-
 }
 .login_button{
   padding: 5px 10px;
